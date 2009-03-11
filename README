@@ -1,0 +1,6 @@
+Download and install the Tango dmd package, (you can install it to home, I 
+use ~/opt/).
+
+http://www.dsource.org/projects/tango/wiki/DmdDownloads
+
+Ensure that dmd is in the path, (eg. ~/opt/bin), and make.
